@@ -1,6 +1,0 @@
----
-title: "Untitled"
-author: "jcschalk"
-date: "5/24/2021"
-output: html_document
----
